@@ -1,0 +1,19 @@
+{
+  "name": "@ninetynine/noop",
+  "version": "1.0.0",
+  "description": "A small package containing a NoOp and comparison function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninetynine/noop.git"
+  },
+  "author": "Dexter Marks-Barber <dexter@marks-barber.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninetynine/noop/issues"
+  },
+  "homepage": "https://github.com/ninetynine/noop#readme"
+}
