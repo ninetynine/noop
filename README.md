@@ -7,7 +7,7 @@
   <br />
 </h1>
 
-<h5 align="center">A small package containing a noop and comparison function.</h5>
+<h5 align="center">A small package containing a NoOp and comparison function.</h5>
 <p align="center">
   <a href="https://www.npmjs.com/package/@ninetynine/noop">
     <img src="https://badgen.net/npm/v/@ninetynine/noop" />
