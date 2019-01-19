@@ -1,8 +1,8 @@
 {
   "name": "@ninetynine/noop",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A small package containing a NoOp and comparison function",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./node_modules/.bin/babel src/ --out-dir lib/",
